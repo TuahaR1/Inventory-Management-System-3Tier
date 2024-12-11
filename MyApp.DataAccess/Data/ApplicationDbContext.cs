@@ -1,8 +1,9 @@
-﻿using Final_Project.Models;
+﻿
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
+using MyApp.Models;
 
-namespace Final_Project.Data
+namespace MyApp.DataAccess
 {
     public class ApplicationDbContext : DbContext
     {

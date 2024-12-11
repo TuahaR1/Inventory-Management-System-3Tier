@@ -1,5 +1,5 @@
-using Final_Project.Models;
 using Microsoft.AspNetCore.Mvc;
+using MyApp.Models;
 using System.Diagnostics;
 
 namespace Final_Project.Controllers

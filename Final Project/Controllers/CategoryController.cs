@@ -1,7 +1,8 @@
-﻿using Final_Project.Data;
-using Final_Project.Models;
+﻿
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using MyApp.DataAccess;
+using MyApp.Models;
 using System.CodeDom;
 
 namespace Final_Project.Controllers

@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace Final_Project.Models
+namespace MyApp.Models
 {
     public class Category
     {
