@@ -1,1 +1,2 @@
-# Inventory management system
+# Inventory management system 
+Implemented N-Tier architecture
